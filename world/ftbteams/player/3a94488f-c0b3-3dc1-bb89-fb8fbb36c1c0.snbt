@@ -1,0 +1,17 @@
+{
+	id: "3a94488f-c0b3-3dc1-bb89-fb8fbb36c1c0"
+	type: "player"
+	player_name: "Predpa"
+	ranks: {
+		3a94488f-c0b3-3dc1-bb89-fb8fbb36c1c0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Predpa"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFEC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

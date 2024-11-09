@@ -1,0 +1,15 @@
+{
+	id: "2a51635a-6093-3f7e-837e-aeacd2b243c1"
+	type: "player"
+	player_name: "Linuxuryy"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Linuxuryy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B559FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

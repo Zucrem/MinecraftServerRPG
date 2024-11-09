@@ -1,0 +1,17 @@
+{
+	id: "b68f7715-3c79-3761-8aa3-664ead0d82ca"
+	type: "player"
+	player_name: "Tsushi"
+	ranks: {
+		b68f7715-3c79-3761-8aa3-664ead0d82ca: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tsushi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#97FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

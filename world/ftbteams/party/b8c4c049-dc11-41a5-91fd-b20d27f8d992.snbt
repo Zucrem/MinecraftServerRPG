@@ -1,0 +1,17 @@
+{
+	id: "b8c4c049-dc11-41a5-91fd-b20d27f8d992"
+	type: "party"
+	owner: "ab5050d0-2651-3f3c-b236-848ba0930706"
+	ranks: {
+		ab5050d0-2651-3f3c-b236-848ba0930706: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Hermiz's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59C9FF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1730998482512L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Hermiz\"}]}" }]
+	extra: { }
+}

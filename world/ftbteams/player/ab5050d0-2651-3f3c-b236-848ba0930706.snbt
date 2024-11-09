@@ -1,0 +1,15 @@
+{
+	id: "ab5050d0-2651-3f3c-b236-848ba0930706"
+	type: "player"
+	player_name: "Hermiz"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Hermiz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

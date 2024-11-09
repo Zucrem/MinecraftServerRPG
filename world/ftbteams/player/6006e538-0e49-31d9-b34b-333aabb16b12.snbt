@@ -1,0 +1,17 @@
+{
+	id: "6006e538-0e49-31d9-b34b-333aabb16b12"
+	type: "player"
+	player_name: "Maker2045"
+	ranks: {
+		6006e538-0e49-31d9-b34b-333aabb16b12: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Maker2045"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6B59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

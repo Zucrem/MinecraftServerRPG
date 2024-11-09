@@ -1,0 +1,17 @@
+{
+	id: "c9f89c88-d740-3667-9d2b-5a8e82c1839d"
+	type: "player"
+	player_name: "Anier"
+	ranks: {
+		c9f89c88-d740-3667-9d2b-5a8e82c1839d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Anier"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "b7568e7f-485a-4209-a945-3d21753ba6c0"
+	type: "party"
+	owner: "2a51635a-6093-3f7e-837e-aeacd2b243c1"
+	ranks: {
+		2a51635a-6093-3f7e-837e-aeacd2b243c1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "1111"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1730998530255L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Linuxuryy\"}]}" }]
+	extra: { }
+}

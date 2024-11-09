@@ -1,0 +1,17 @@
+{
+	id: "cad5abd2-83ef-34b1-a581-4de77d5b7a36"
+	type: "player"
+	player_name: "Junpna"
+	ranks: {
+		cad5abd2-83ef-34b1-a581-4de77d5b7a36: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Junpna"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D8"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
